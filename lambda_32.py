@@ -1,7 +1,7 @@
 '''
     *** TP HCM, 2019 ***
-    Chuong trinh xay dung he thong RSA
-    Created by : Hoang Quoc Thinh - 1712790
+    Build RSA randomly
+    Created by : Shayne Johnson
     - Lambda = 32
 '''
 
