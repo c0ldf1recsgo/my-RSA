@@ -1,0 +1,130 @@
+VD1:
+p = 57901
+q = 41651
+n = 2411634551
+Keygen = 0.000097s.
+e = 1643791943
+d = 74414807
+m = 10140
+Encrypt = 0.000016s.
+c = 157122720
+Decrypt = 0.000013s.
+Message after decrypted : 10140
+
+VD2:
+p = 46279
+q = 50821
+n = 2351945059
+Keygen = 0.000045s.
+e = 1704004069
+d = 420691309
+m = 28721
+Encrypt = 0.000014s.
+c = 36847773
+Decrypt = 0.000012s.
+Message after decrypted : 28721
+
+VD3:
+p = 39097
+q = 42403
+n = 1657830091
+Keygen = 0.000017s.
+e = 394922317
+d = 814247989
+m = 15791
+Encrypt = 0.000012s.
+c = 1426047998
+Decrypt = 0.000011s.
+Message after decrypted : 15791
+
+VD4:
+p = 55927
+q = 49409
+n = 2763297143
+Keygen = 0.000048s.
+e = 674912783
+d = 344563439
+m = 31083
+Encrypt = 0.000023s.
+c = 1180983186
+Decrypt = 0.000024s.
+Message after decrypted : 31083
+
+VD5:
+p = 34721
+q = 35257
+n = 1224158297
+Keygen = 0.000046s.
+e = 552687113
+d = 980199737
+m = 24968
+Encrypt = 0.000018s.
+c = 839918792
+Decrypt = 0.000018s.
+Message after decrypted : 24968
+
+VD6:
+p = 63667
+q = 41201
+n = 2623144067
+Keygen = 0.000062s.
+e = 1285838167
+d = 274152103
+m = 21302
+Encrypt = 0.000015s.
+c = 1987662590
+Decrypt = 0.000014s.
+Message after decrypted : 21302
+
+VD7:
+p = 50341
+q = 39103
+n = 1968484123
+Keygen = 0.000046s.
+e = 1707842141
+d = 365147261
+m = 9169
+Encrypt = 0.000014s.
+c = 1897525197
+Decrypt = 0.000013s.
+Message after decrypted : 9169
+
+VD8:
+p = 45377
+q = 63331
+n = 2873770787
+Keygen = 0.000027s.
+e = 789383399
+d = 1004367959
+m = 19307
+Encrypt = 0.000012s.
+c = 504205169
+Decrypt = 0.000013s.
+Message after decrypted : 19307
+
+VD9:
+p = 36931
+q = 37847
+n = 1397727557
+Keygen = 0.000038s.
+e = 1022267563
+d = 1152125467
+m = 29512
+Encrypt = 0.000011s.
+c = 1044337022
+Decrypt = 0.000011s.
+Message after decrypted : 29512
+
+VD10:
+p = 52813
+q = 59797
+n = 3158058961
+Keygen = 0.000041s.
+e = 1575869833
+d = 1880271865
+m = 13931
+Encrypt = 0.000014s.
+c = 2971210121
+Decrypt = 0.000029s.
+Message after decrypted : 13931
+
